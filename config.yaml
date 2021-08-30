@@ -12,4 +12,4 @@ keywords:
         galaxies: 3
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 5
