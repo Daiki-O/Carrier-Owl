@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:astro-ph.GA'
+subject: 'cat:astro-ph.GA OR cat:astro-ph.CO'
 
 # 検索キーワード
 keywords:
@@ -8,6 +8,7 @@ keywords:
         spin: 3
         merger: 3
         merge: 3
+        galaxy: 3
 
 # 通知の閾値
 score_threshold: 0
