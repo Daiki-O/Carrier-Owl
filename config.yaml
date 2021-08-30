@@ -9,6 +9,7 @@ keywords:
         merger: 3
         merge: 3
         galaxy: 3
+        galaxies: 3
 
 # 通知の閾値
 score_threshold: 0
