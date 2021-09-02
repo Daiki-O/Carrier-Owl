@@ -4,7 +4,9 @@ subject: 'cat:astro-ph.GA OR cat:astro-ph.CO'
 # 検索キーワード
 keywords:
         halo: 7
+        subhalo: 7
         dark matter: 7
+        tidal: 7
         spin: 3
         merger: 3
         merge: 3
